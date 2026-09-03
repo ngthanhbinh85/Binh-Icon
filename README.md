@@ -9,6 +9,10 @@ Binh-Icon
 - Cursor: [Bibata Modern Ice](https://github.com/ful1e5/Bibata_Cursor)
 - Một số nguồn icon khác
 
+## Screenshot
+
+![Binh-Icon](Binh-Icon.webp)
+
 ## Yêu cầu
 
 Chỉ tương thích Linux GNOME
