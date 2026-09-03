@@ -1,6 +1,6 @@
 Binh-Icon
 
-Đây là bộ icon và cursor màu mè tổng hợp theo sở thích cá nhân cho Linux GNOME, chia sẻ cho bạn nào cùng ý thích. Bộ này ít chứa các icon tự vẽ (hình như vẫn có một số) mà chủ yếu được tổng hợp sử dụng lại từ các nguồn sau:
+Đây là bộ icon và cursor màu mè tổng hợp theo sở thích cá nhân cho Linux GNOME, mình sử dụng cho mục đích cá nhân, nhưng chia sẻ cho bạn nào cùng ý thích. Bộ này ít chứa các icon tự vẽ (hình như vẫn có một số) mà chủ yếu được tổng hợp sử dụng lại từ các nguồn sau:
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - [Yaru Deepblue](https://github.com/Jannomag/Yaru-Colors/tree/master/Icons/Yaru-Deepblue)
